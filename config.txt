@@ -1,0 +1,6 @@
+token=NjQwMzE5Mjc3NTI5OTU2MzUz.Xb4NXw.Pn5Rh6AagwnRxHxS-lU7k5qQJRs
+owner=624277858134786098
+prefix==
+game=Alpha Bots!
+stayinchannel=true
+songinstatus=true
